@@ -3,5 +3,8 @@ A screw terminal PCB for esp32 devkit
 
 Measures 2.30' x 3.60'
 
-<img src="https://user-images.githubusercontent.com/94538153/183753153-3a1cf6eb-bf37-4e3a-8a19-ce1eb2c086f9.png" width="250" height="300"/>
+FRONT
+<img src="https://user-images.githubusercontent.com/94538153/183753937-2bc4e62a-a60d-4bc8-b45a-eea92f3010f5.png" width="250" height="300"/>
 
+BACK 
+ <img src="https://user-images.githubusercontent.com/94538153/183754061-b83c9a71-68de-43d8-beae-84ac39ab09e6.png" width="250" height="300"/>
